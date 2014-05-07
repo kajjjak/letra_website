@@ -1,0 +1,44 @@
+{
+  "name": "Letra home page",
+  "version": "master",
+  "deployer": "oR4Map2z8",
+  "plugins": {
+    "bJ4feaAMu": {
+      "name": "Javascript"
+    },
+    "TL8ml51mE": {
+      "name": "CSS"
+    },
+    "ySC3tRlCN": {
+      "name": "Markdown"
+    },
+    "ASYeE4C1n": {
+      "name": "HTML preview"
+    },
+    "PG4U8wocc": {
+      "name": "HTML"
+    },
+    "oR4Map2z8": {
+      "server": "http://54.249.246.189/",
+      "username": "",
+      "password": "",
+      "database": "letra",
+      "preview": "website",
+      "domain": "letra.agamecompany.com"
+    },
+    "github": {
+      "repobranch": "master",
+      "username": "",
+      "password": "",
+      "reponame": "letra_website",
+      "repouser": "kajjjak",
+      "repopush_comment": "Initial"
+    }
+  },
+  "created": 1399497410615,
+  "updated": 1399497410615,
+  "private": false,
+  "fork_id": "sKwupbHhz",
+  "description": "",
+  "preview": "2RySxP0LK"
+}
